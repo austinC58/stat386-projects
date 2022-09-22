@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Austins First Blog"
+title:  "What Coding Languauge is Right for you?"
 date:   2022-09-13
 author: Austin Carter
 description: My first practice post
