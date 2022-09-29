@@ -31,6 +31,6 @@ Have you ever read a "Chose Your Own Adventure Story" where you make choices and
   The easy part. Now you get to insert your story. Depending on your story you are going to need print statements at the beginning, before the “if” statements, inside the “if statement, or even at the end as a conclusion. Once you have all your text coded in, then start making test runs. It’s best to test out every branch of your story and make sure the code is functioning properly.
 
 **Conclusion**
-  This is just the beginning of what you can do in python. Using this as a groundworks, you can go on to create a full text adventure games. There is unlimited options. You can add in a health system, enemy encounter, inventory, riddles, and even level-up system. Thank you for reading this guide and please leave any comments if you'd like to see a guide to related topics.  
+  This is just the beginning of what you can do in python. Using these concepts as groundworks, you can go on to create a full text adventure games. There is unlimited options. You can add in a health system, enemy encounter, inventory, riddles, and even level-up system. Thank you for reading this guide and please leave any comments if you'd like to see a guide to related topics.  
   
   
