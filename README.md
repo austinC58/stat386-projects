@@ -4,7 +4,7 @@ This the repo for the Stat386 blog projects.
 
 ## Steps for creating a new post.  
 
-1. Create a new file in the "_posts" folder called 'YYYY-MM-DD-post-name.md', where YYYY is the year (2022), MM numeric month (01-12), and DD is the numeric day of the month (01-31).  The "post-name" is a short name for the new post with - between words.  You must use this name convention for all new posts.  
+1. Create a new file in the "_posts" folder called 'YYYY-MM-DD-post-name.md', where YYYY is the year (2022), MM numeric month (01-12), and DD is the numeric day of the month (01-31) .  The "post-name" is a short name for the new post with - between words.  You must use this name convention for all new posts.  
 
 2.  Make the YML heading.  All pages in the site need to start with a YML heading.  For posts you should use
 ```
