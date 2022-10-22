@@ -18,6 +18,9 @@ image: /assets/images/BlogImage3.jpg
  
   Gathering Data is going to be different for every project. I can't give a step-by-step process of how to gather data for every project, but I can give insights on how to approach gathering data and show some of my work. First, let’s talk about choosing a source of data. When choosing a source, you are going to want to check for two things. The validity of the data and whether is accessible to you. Luckily for me my source, statmando.com, checks off these boxes. Now that we have a source for the data, we need to figure out how to extract it. Again, this is going to be different for every project, but for mine I am just going to be using pythons BeautifulSoup package to scrape data. Here is a quick rundown of how my process went.
   
+![Test Image](https://raw.githubusercontent.com/austinC58/stat386-projects/main/assets/images/WebScraping7.jpg)
+
+  
 **Step 1: Set up Packages and URLs**
 
 ![Test Image](https://raw.githubusercontent.com/austinC58/stat386-projects/main/assets/images/WebScraping1.jpg)
@@ -42,4 +45,4 @@ image: /assets/images/BlogImage3.jpg
   
 **Conclusion and Moving Forward**
 
-  Now that I have a dataset, I can look forward to what I want to do with it. I gathered data on both professional division in disc golf which totaled at over 400 rows with 16 columns. This gives a lot of room for future exploration of this data. My main goals are to find differences between the two divisions. The variables associated with the money earned by the players is of interest to me. It's no secret that there are pay discrepancies in professional sports across genders, and I would like to explore whether that is true for Disc Golf. The next group of variables that is interesting to me is the performance variables. I am excited to try and piece together what aspects of the sport help players win the most. I look forward to sharing my progress moving ahead with the project
+  Now that I have a dataset, I can look forward to what I want to do with it. I gathered data on both professional division in disc golf which totaled at over 400 rows with 16 columns. This gives a lot of room for future exploration of this data. One of my main goals is to find differences between the two professional divisions in Disc Golf. The variables associated with the money earned by the players is of particular interest to me. It's no secret that there are pay discrepancies in professional sports across genders, and I would like to explore whether that is true for Disc Golf. The next group of variables that is interesting to me is the performance variables. I am excited to try and piece together what aspects of the sport help players win the most. I look forward to sharing my progress moving ahead with the project
