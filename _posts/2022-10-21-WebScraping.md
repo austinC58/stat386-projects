@@ -16,13 +16,22 @@ image: /assets/images/BlogImage3.jpg
   
  **Gathering Data**
  
-  Gathering Data is going to be different for every project. I can't give a step by step process of how to gather data for every project, but i can give insights on how to approach gathering data and show some of my work. 
+  Gathering Data is going to be different for every project. I can't give a step by step process of how to gather data for every project, but i can give insights on how to approach gathering data and show some of my work. First, lets talk about choosing a source of data. When choosing a source you are going to want to check for two things. The valididy of the data and whether is acessible to you. Luckily for me my source, statmando.com, checks off these boxes. Now that we have a source for the data we need to figure out how to extract it. Again, this is going to be different for every project, but for mine i am just going to be using pythons BeautifulSoup package to scrape data. Here is a quick run down of how my process went.
+  
+**Step 1: Set up Packages and Urls**
 
 ![Test Image](https://raw.githubusercontent.com/austinC58/stat386-projects/main/assets/images/WebScraping1.jpg)
+
+**Step 2: Extract Data**
 ![Test Image](https://raw.githubusercontent.com/austinC58/stat386-projects/main/assets/images/WebScraping2.jpg)
+
+**Step 3: Format Data**
+
 ![Test Image](https://raw.githubusercontent.com/austinC58/stat386-projects/main/assets/images/WebScraping3.jpg)
 ![Test Image](https://raw.githubusercontent.com/austinC58/stat386-projects/main/assets/images/WebScraping4.jpg)
 ![Test Image](https://raw.githubusercontent.com/austinC58/stat386-projects/main/assets/images/WebScraping5.jpg)
+
+**Step 4: Export Data**
 ![Test Image](https://raw.githubusercontent.com/austinC58/stat386-projects/main/assets/images/WebScraping6.jpg)
 
 **Ethics of Collecting Data**
