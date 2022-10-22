@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Choose Your Own Adventure: Python Edition"
+title:  "Web Scraping"
 date:   2022-10-21
 author: Austin Carter
 description: The process of scraping disc golf stats  
