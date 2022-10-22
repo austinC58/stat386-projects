@@ -47,4 +47,4 @@ A question you may have during this process is how ethical is web scraping? Firs
 
 Now that I have a dataset, I can look forward to what I want to do with it. I gathered data on both professional division in disc golf which totaled at over 400 rows with 16 columns. This gives a lot of room for future exploration of this data. One of my main goals is to find differences between the two professional divisions in Disc Golf. The variables associated with the money earned by the players is of particular interest to me. It's no secret that there are pay discrepancies in professional sports across genders, and I would like to explore whether that is true for Disc Golf. The next group of variables that is interesting to me is the performance variables. I am excited to try and piece together what aspects of the sport help players win the most. I look forward to sharing my progress moving ahead with the project. 
 
-Repository: 
+Repository: https://github.com/austinC58/STAT386WebScrapingAssignment.git
